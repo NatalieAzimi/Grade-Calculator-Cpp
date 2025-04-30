@@ -9,7 +9,7 @@
    - [Weighted Calculator](#Category-Based-Weighted-Calculator)
 5. [Understanding Results](#Understanding-Results)
 6. [Tips](#Tips)
-7. [Troubleshooting!](#Troubleshooting!)
+7. [Troubleshooting](#Troubleshooting)
 
 
 
