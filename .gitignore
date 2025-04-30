@@ -1,0 +1,15 @@
+# Code::Blocks files to ignore
+*.depend
+*.layout
+*.cbp
+bin/
+obj/
+Debug/
+Release/
+*.workspace
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.lib
